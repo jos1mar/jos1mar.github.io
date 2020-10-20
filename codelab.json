@@ -1,0 +1,20 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "id": "function-concepts",
+  "duration": 8,
+  "title": "Função: Conceitos",
+  "authors": "Josimar M. Rocha",
+  "summary": "Conceito de função",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "function"
+  ]
+}
